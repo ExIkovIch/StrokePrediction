@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#2980b9"          # Твой синий акцент
+backgroundColor = "#f4f6f9"       # Твой светло-серый фон
+secondaryBackgroundColor = "#ffffff" # Белые карточки (формы, сайдбар)
+textColor = "#2c3e50"             # Твой темно-синий текст
+font = "sans serif"
